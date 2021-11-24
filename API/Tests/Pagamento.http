@@ -4,7 +4,7 @@ Content-Type: application/json
 
 {
     "Nome" : "Crédito",
-    "Vezes" : 4,
+    "Vezes" : 4
 }
 
 ### Listar todas as formas de pagamento
